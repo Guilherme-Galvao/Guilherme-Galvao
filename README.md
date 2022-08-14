@@ -1,5 +1,5 @@
 Olá, eu sou o Luiz Guilherme Galvão! Estudo Tecnologia em Inteligência Artificial Aplicada na PUC-PR, estou atualmente no 2° periodo. 
-Nesse período, tenho programado em python e ja me ambientei com pycharm, postgresql, mysql, Django.
+Nesse período, tenho programado em python e ja me ambientei com diversas ferramentas e bibliotecas. Entre elas: pycharm, postgresql, mysql, Django, VScode, tensor flow, numpy, scikitlearn 
 
  <div align="center">
   <a href="https://github.com/Guilherme-Galvao">
