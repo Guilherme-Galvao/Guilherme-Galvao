@@ -1,12 +1,16 @@
-Apaixonado por desafios, acredito que elem movem o mundo! 
+Um apaixonado por Inovação e tecnologia, buscando descomplicar a vida com soluções ágeis e acredito que os desafios movem o mundo
+A tech and innovation enthusiast, seeking to simplify life with agile solutions and believing that challenges move the world.
 
-Hard skills:
--Conhecimento nas Linguagens: Python , SQL, 
-- Lógica de programação orientada à objetos (LPOO)
-- API rest 
-- Análise e manipulação de dados , PostgreSQL!
--Vivência com bibliotecas científicas: Numpy, scikitlearn, math, pandas
-- Utilização de ferramentas: linux ubuntu, django, postgreSQL, mySQL, Pycharm, VSCode, github, google cloud.
+Hard Skills: 
+-Knowledge in Languages: Python, SQL
+Experience with libraries: Numpy, scikitlearn, math, pandas, requests, beautifulsoup, 
+Data analysis, manipulation and automations RPA with Python, PostgreSQL
+experience with frameworks: Django, Flask, creating API rest
+Cloud Computing - Docker, Conteiners, Kubernets, English Advanced 
+Knowledge in data modeling - mysqlworkbench, brmodel - 
+Use of tools: linux ubuntu, django, postgreSQL, mySQL, Pycharm, Jupyter Notebook, VSCode, github, tensorflow, pytorch, google cloud, AWS, trelo 
+Agile Methodology : Skrum ,Kanban
+
 
  <div align="center">
   <a href="https://github.com/Guilherme-Galvao">
