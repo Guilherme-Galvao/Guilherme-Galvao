@@ -3,9 +3,10 @@ A tech and innovation enthusiast, seeking to simplify life with agile solutions 
 
 Hard Skills: 
 -Knowledge in Languages: Python, SQL
-Experience with libraries: Numpy, scikitlearn, math, pandas, requests, beautifulsoup, 
-Data analysis, manipulation and automations RPA with Python, PostgreSQL
-experience with frameworks: Django, Flask, creating API rest
+Experience with libraries: Numpy, math, pandas, requests, pyautogui,selenium,scrapy, beautifulsoup,
+matplotly,seaborn
+Data analysis, manipulation and automations RPA with Python, 
+experience with frameworks: Django, Flask, scrapy
 Cloud Computing - Docker, Conteiners, Kubernets, English Advanced 
 Knowledge in data modeling - mysqlworkbench, brmodel - 
 Use of tools: linux ubuntu, django, postgreSQL, mySQL, Pycharm, Jupyter Notebook, VSCode, github, tensorflow, pytorch, google cloud, AWS, trelo 
